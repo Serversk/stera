@@ -1,7 +1,7 @@
-# Study Forge
+# Stera
 
 ## Overview
-Study Forge is a comprehensive note-taking application designed for students and professionals to efficiently organize, search, and manage their study materials. The application supports text notes with file attachments and provides automatic backup functionality.
+Stera is a comprehensive note-taking application designed for students and professionals to efficiently organize, search, and manage their study materials. The application supports text notes with file attachments and provides automatic backup functionality.
 
 ## Features
 - Create, edit, and delete text notes
