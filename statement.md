@@ -1,10 +1,10 @@
-# Study Forge - Project Statement
+# Stera - Project Statement
 
 ## Problem Statement
 Students and professionals struggle with organizing and managing their study materials efficiently. Existing note-taking solutions often lack features like file attachments, efficient search capabilities, and automatic backup systems, leading to lost information and reduced productivity.
 
 ## Scope of the Project
-Study Forge provides a comprehensive solution for digital note management with advanced features including file attachments, keyword-based search, and automatic backup systems within a user-friendly console interface.
+Stera provides a comprehensive solution for digital note management with advanced features including file attachments, keyword-based search, and automatic backup systems within a user-friendly console interface.
 
 ## Target Users
 - Students managing lecture notes and study materials
